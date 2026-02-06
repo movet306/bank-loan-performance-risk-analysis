@@ -46,8 +46,8 @@ This repository brings together the same banking loan portfolio analysis across 
 ### SQL Analysis
 - **SQL Queries & Metric Calculations (PDF)**  
   All core KPIs and portfolio metrics were first calculated in SQL Server to ensure accuracy and traceability before moving to analytical tools.  
-  This document contains the full set of SQL queries used for validation and aggregation.  
-  *File included in repository.*
+  This document contains the complete set of SQL queries used for metric definitions, aggregations, and validation.  
+  [mert_ovet_bank_loan_quaries_sql_queries.pdf](https://github.com/movet306/bank-loan-performance-risk-analysis/blob/main/mert_ovet_bank_loan_quaries_sql_queries.pdf)
 
 ### Python Analysis
 - **Python Portfolio Analysis (Jupyter Notebook)**  
